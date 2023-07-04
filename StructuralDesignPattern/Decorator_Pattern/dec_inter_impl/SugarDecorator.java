@@ -15,6 +15,6 @@ public class SugarDecorator extends CoffeeDecorator {
 
     @Override
     public String getDescription() {
-        return super.getDescription()+ " ,Sugar";
+        return super.getDescription()+ " and Sugar";
     }
 }
