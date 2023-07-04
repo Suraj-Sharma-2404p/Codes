@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caac786b-ef75-4d58-83a8-0687c2d2f880" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/behavioralDP/observerEx2/Subject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralDP/ObserverDP/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralDP/ObserverDP/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralDP/ObserverDP/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralDP/ObserverDP/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralDP/ObserverDP/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralDP/ObserverDP/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralDP/TemplateDP/Templates/HouseTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralDP/TemplateDP/Templates/HouseTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioralDP/TemplateDP/Templates/HousingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/behavioralDP/TemplateDP/Templates/HousingClient.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S4P4ncB81f8Fd3MWniY7Fluyd9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "H:/DesignPatterns/Codes",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Implementation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioralDP.observerEx2.Implementation2" />
+      <module name="Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioralDP.observerEx2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Implementation2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caac786b-ef75-4d58-83a8-0687c2d2f880" name="Changes" comment="" />
+      <created>1688402696622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688402696622</updated>
+    </task>
+    <servers />
+  </component>
+</project>
